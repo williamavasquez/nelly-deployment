@@ -10,6 +10,7 @@ class App extends Component {
         <h1> NETLIFY APP DEPLOYED! YEAH! BOI!</h1>
           <img src={logo} className="App-logo" alt="logo" />
           <p>Netlify you Rock!</p>
+          <h2> IT only took us an hour to deploy a custom domain</h2>
           <p>
             Edit <code>src/App.js</code> and save to reload.
           </p>
